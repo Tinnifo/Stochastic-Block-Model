@@ -1,1 +1,1 @@
-# Stochastic-Box-Model
+# Stochastic-Block-Model
